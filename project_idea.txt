@@ -1,0 +1,13 @@
+IBM Hack:
+Project idea:
+	The project is about grammar and syntactical correction based on the user inputs.
+The idea was to use the "Text to speech " Watson service as one of the input.The input 
+provided is worked on by a "Grammar correcting" API and the output is given out in the 
+correct form.
+	As an addition,a user login and an account is created where the all the input
+given by the user is stored in an encrypted form in a database.This informaation can 
+be used as a security tool to authenticate users for various login.
+	The process of authentication is done as follows.The all the data is scanned 
+and a unique question is posed to the user.Only an authentic user can answer the question
+as its based on his provious inputs.this is helpful where passwords can be hacked and 
+having a static question in security.
